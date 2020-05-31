@@ -1,0 +1,25 @@
+.container {
+    margin: auto;
+    text-align: center;
+    padding: 2rem;
+}
+
+.box {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    min-height: 300px;
+    max-width: 200px;
+    border-radius: .5rem;
+    box-shadow: .2rem .1rem#aaa;
+}
+
+.box input {
+    border: 1px solid #ddd;
+    border-radius: 1px;
+    min-height: 10px;
+    min-width: 150px;
+}
+
+.item {
+    border: 1px solid black;
+}
